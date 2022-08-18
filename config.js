@@ -6,16 +6,16 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['6282195322106', '️Oᴡɴᴇʀ One', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Two', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Three', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Four', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Five', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Six', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Seven', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Eight', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Nine', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Teen', true]
+  ['62882006485504', '️Oᴡɴᴇʀ farhan', true],
+  ['62882006485504', '️Oᴡɴᴇʀ Two', true],
+  ['62882006485504', '️Oᴡɴᴇʀ Three', true],
+  ['62882006485504', '️Oᴡɴᴇʀ Four', true],
+  ['62882006485504', '️Oᴡɴᴇʀ Five', true],
+  ['62882006485504', '️Oᴡɴᴇʀ Six', true],
+  ['62882006485504', '️Oᴡɴᴇʀ Seven', true],
+  ['62882006485504', '️Oᴡɴᴇʀ Eight', true],
+  ['62882006485504', '️Oᴡɴᴇʀ Nine', true],
+  ['62882006485504', '️Oᴡɴᴇʀ Teen', true]
 ]
 global.mods = []
 global.prems = []
@@ -78,21 +78,21 @@ global.xckey = 'BOhjM2hUVn'
 
 /*Number*/
 global.nomorbot = '6285171216276'
-global.nomorown = '6282195322106'
-global.namebot = 'ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ'
-global.nameown = '「 Oᴡɴᴇʀ 」'
+global.nomorown = '62882006485504'
+global.namebot = 'FARHANBOTZ ⁻ ᴹ ᴰ'
+global.nameown = '「 Oᴡɴᴇʀ FARHAN 」'
 
 /*Watermark*/
-global.wm = '                「 ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ あ⁩ 」'
+global.wm = '                「 F A R H A N B O T Z ⁻ ᴹ ᴰ あ⁩ 」'
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ'
+global.wm3 = '⫹⫺ F A R H A N B O T Z ⁻ ᴹ ᴰ'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 
 /*Thumbnail*/
-global.thumb = 'https://i.ibb.co/ccY2Q0k/20220429-191026.jpg'
-global.imagebot = 'https://telegra.ph/file/793b6accf3758f092742a.jpg'
+global.thumb = 'https://a.uguu.se/rPqTEoT.jpg'
+global.imagebot = 'https://a.uguu.se/rPqTEoT.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://i.ibb.co/ccY2Q0k/20220429-191026.jpg','https://telegra.ph/file/f87047ec6e5f0d4a9ea91.jpg','https://telegra.ph/file/88edbb01051b397574def.jpg','https://telegra.ph/file/7957630a57078c5ec0400.jpg']
 global.fla='https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
@@ -380,11 +380,11 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 
 /*Link*/
-global.sig = 'https://instagram.com/notifikasi_pemberitahuan'
-global.sgh = 'https://github.com/AyGemuy'
-global.sgc = 'https://chat.whatsapp.com/BAs2c2UeLE8AaI806UWUvI'
-global.sdc = 'https://discord.com/wudysoft'
-global.snh = 'https://tiktok.com/@upload_file'
+global.sig = 'https://instagram.com/STOREFARHAN'
+global.sgh = 'https://github.com'
+global.sgc = 'https://chat.whatsapp.com/HdpWPPVdtejKWepn0wllRS'
+global.sdc = 'https://discord.com/'
+global.snh = 'https://tiktok.com/'
 
 /*Nsfw*/
 global.optsnsfw = true
@@ -400,7 +400,7 @@ global.drtf = 'text/rtf'
 /*Fake*/
 global.fsizedoc = '444441600'
 global.fpagedoc = '7279200'
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://a.uguu.se/rPqTEoT.jpg'
 
 /*Hiasan*/
 global.dmenut = '❏═┅═━–〈'
@@ -425,9 +425,9 @@ global.htjava = '⫹⫺'
 
 /*Watermark*/
 global.stickpack = '.'
-global.stickauth = `☂︎ ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎ F A R H A N B O T Z ⁻ ᴹ ᴰ\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = '☂︎ Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.author = 'ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ X Wudysoft'
+global.author = 'F A R H A N B O T Z ⁻ ᴹ ᴰ'
 global.multiplier = 10
 
 /*Pesan*/
@@ -435,22 +435,22 @@ global.eror = 'Erorr...'
 global.wait = 'Wait...'
 global.render = 'Render...'
 global.webs = 'https://s.id/Cerdasin62'
-global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
-global.gcwangsaf = 'https://chat.whatsapp.com/Fxz8FpQ0ddr2GrEjfYkJ1E'
+global.logo = 'https://a.uguu.se/rPqTEoT.jpg'
+global.gcwangsaf = 'https://chat.whatsapp.com/HdpWPPVdtejKWepn0wllRS'
 
 /*Donasi*/
 global.saweria = 'https://saweria.co/wudysoft'
-global.dana = ['0887435373103']
-global.pulsa = ['082195322106']
-global.trakteer = 'https://trakteer.id/wudysoft'
-global.paypal = 'wudysoft@mail.com'
-global.gopay = '082195322106'
-global.pdana = '0887435373103'
-global.povo = '082195322106'
-global.pgopay = '082195322106'
-global.ppulsa = '082195322106'
-global.ppulsa2 = '082195322106'
-global.psaweria = 'https://saweria.com/Wudysoft'
+global.dana = ['62882006485504']
+global.pulsa = ['62882006485504']
+global.trakteer = '62882006485504'
+global.paypal = '62882006485504'
+global.gopay = '62882006485504'
+global.pdana = '62882006485504'
+global.povo = '62882006485504'
+global.pgopay = '62882006485504'
+global.ppulsa = '62882006485504'
+global.ppulsa2 = '62882006485504'
+global.psaweria = '62882006485504'
 
 /*Emoji*/
 global.rpg = {
